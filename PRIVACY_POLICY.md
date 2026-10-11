@@ -16,4 +16,8 @@ Paani Glass is a simple water-intake tracker.
 
 **Medical note:** Paani Glass is a habit tool only and does not provide medical advice.
 
-**Contact:** [apna email yahan likhein]
+**Data on your device is not backed up to the cloud.** Uninstalling the app or clearing its data deletes it permanently.
+
+**Changes:** Any update to this policy will be posted here with a new date.
+
+**Contact:** Please use the developer contact email shown on the Paani Glass page in the Google Play Store.
