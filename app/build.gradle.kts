@@ -10,8 +10,11 @@ android {
         applicationId = "com.paaniglass.app"
         minSdk = 26
         targetSdk = 36          // Google Play ki latest target API requirement
-        versionCode = 1
-        versionName = "1.0"
+        // Har GitHub build par versionCode khud barhta hai (Play Store update ke liye zaroori).
+        // Apne PC par build ho to 1 rehta hai.
+        val buildNumber = System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 1
+        versionCode = buildNumber
+        versionName = "1.0.$buildNumber"
     }
 
     // Release signing: keystore ki details environment variables se aati hain

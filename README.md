@@ -51,4 +51,4 @@ Sab design, icon aur code naya banaya gaya hai — kisi aur app ka copy nahi.
    - **Health apps declaration**: "Not a medical app" — app sirf aadat tracker hai.
 4. Screenshots aur feature graphic khud ke phone se lein.
 
-Har update par `versionCode` 1 se barhayein (2, 3, …).
+`versionCode` har GitHub build par khud barhta hai — update ke liye bas code push karein aur nayi `.aab` upload karein.
