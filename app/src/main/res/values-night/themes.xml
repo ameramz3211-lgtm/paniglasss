@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PaaniGlass" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/water_light</item>
+        <item name="colorOnPrimary">@color/ink</item>
+        <item name="colorPrimaryContainer">@color/water_deep</item>
+        <item name="colorOnPrimaryContainer">@android:color/white</item>
+        <item name="colorSecondary">@color/coral</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:colorBackground">#0F1A22</item>
+        <item name="colorSurface">#0F1A22</item>
+        <item name="colorOnSurface">#E3EEF5</item>
+        <item name="colorOnSurfaceVariant">#A9BCC9</item>
+        <item name="colorSurfaceContainerLow">#15222B</item>
+        <item name="colorSurfaceContainer">#192731</item>
+        <item name="colorSurfaceContainerHigh">#1D2C36</item>
+        <item name="colorSurfaceContainerHighest">#22323D</item>
+        <item name="colorSecondaryContainer">#24465C</item>
+        <item name="colorOnSecondaryContainer">#E3EEF5</item>
+        <item name="colorOutline">#6F8594</item>
+        <item name="colorOutlineVariant">#33444F</item>
+    </style>
+</resources>

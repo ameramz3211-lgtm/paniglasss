@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paani Glass</string>
+    <string name="glass_desc">Paani ka glass, tap karein to ek glass add ho</string>
+    <string name="add_glass">+ Ek Glass Piya</string>
+    <string name="undo">Wapas</string>
+    <string name="count_format">%1$d / %2$d glass</string>
+    <string name="ml_format">%1$d ml aaj</string>
+
+    <string name="cheer_0">Din ki shuruaat ek glass paani se karein 💧</string>
+    <string name="cheer_1">Achi shuruaat! Isi tarah jaari rakhein.</string>
+    <string name="cheer_2">Aadha safar pura, thoda aur!</string>
+    <string name="cheer_3">Shabash! Aaj ka goal pura ho gaya 🎉</string>
+
+    <string name="history">History</string>
+    <string name="last_week">Pichle 7 din</string>
+    <string name="stat_streak">din lagatar goal</string>
+    <string name="stat_avg">roz ka average glass</string>
+    <string name="stat_goal_days">din goal pura</string>
+    <string name="stat_litres">is hafte kul paani</string>
+    <string name="of_seven">%1$d / 7</string>
+
+    <string name="settings">Settings</string>
+    <string name="goal_label">Roz ka goal: %1$d glass</string>
+    <string name="glass_size">Glass ka size</string>
+    <string name="ml_chip">%1$d ml</string>
+    <string name="reset_today">Aaj ki ginti zero karein</string>
+    <string name="reset_title">Reset karein?</string>
+    <string name="reset_msg">Aaj ke tamam glass hata diye jayenge.</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Rehne dein</string>
+    <string name="reset_done">Aaj ki ginti zero ho gayi</string>
+    <string name="privacy_note">Privacy: Ye app koi permission nahi leti, internet use nahi karti aur aapka data kahin nahi bhejti. Sab kuch sirf aapke phone mein mehfooz rehta hai.\n\nNote: Ye app sirf aadat banane ke liye hai, medical mashwara nahi.</string>
+    <string name="version_text">Paani Glass · version %1$s</string>
+</resources>
